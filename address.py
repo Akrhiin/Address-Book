@@ -24,19 +24,23 @@ def choiceSelect():
             print('Please provide a valid input.')
             time.sleep(1)
             continue
+print(choiceSelect())
 
-
+"""
 import re
 
 if choiceSelect() == '1':
-    """
+    #view contacts
+    
     letter = input('What letter do you want to look through?')
     book = open('addressdata.txt', 'r')
     book = book.read()
-    """
+    
     print('1b')
 if choiceSelect() == '2':
+    #add contacts
     print('2b')
 if choiceSelect() == '3':
+    #delete contacts
     print('3b')
-
+"""
