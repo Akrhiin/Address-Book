@@ -1,0 +1,8 @@
+#start
+Name [replace with name]
+Address: XXXXXX
+Work phone: XXXXXX
+Home phone: XXXXXX
+Cell phone: XXXXXX
+[gap]
+#end
